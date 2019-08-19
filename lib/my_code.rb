@@ -24,3 +24,4 @@ def reduce(arg, start=nil)
   total
 end
 #reduce(source_array){|memo, n| memo + n}
+#reduce(source_array, starting_point){|memo, n| memo + n}
